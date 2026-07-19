@@ -1,0 +1,6 @@
+{
+  "name": "ApexPlanet Dev Setup Hub",
+  "description": "An interactive onboarding dashboard and development environment setup tracker for ApexPlanet Web Development interns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
